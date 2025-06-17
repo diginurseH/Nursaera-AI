@@ -39,10 +39,4 @@ DINHA is not just code—it’s care with context. It is developed to:
 
 ---
 
-## Installation & Setup
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/yourusername/dinha-chatbot.git
-cd dinha-chatbot
 
