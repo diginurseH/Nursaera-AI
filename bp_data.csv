@@ -1,0 +1,22 @@
+systolic,diastolic,age,label
+85,55,21,Hypotension
+88,58,25,Hypotension
+90,60,26,Normal
+95,65,23,Normal
+100,70,28,Normal
+110,72,30,Normal
+115,75,34,Normal
+118,78,29,Normal
+122,79,36,Elevated
+125,80,38,Elevated
+130,85,41,Stage 1
+135,88,45,Stage 1
+140,90,50,Stage 2
+150,95,58,Stage 2
+160,100,60,Stage 2
+170,110,67,Stage 2
+180,120,70,Crisis
+185,122,72,Crisis
+190,125,74,Crisis
+195,130,76,Crisis
+
